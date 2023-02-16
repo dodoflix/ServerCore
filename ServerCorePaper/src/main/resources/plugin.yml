@@ -1,0 +1,6 @@
+name: ServerCorePaper
+version: '${project.version}'
+main: me.dodo.servercorepaper.ServerCorePaper
+api-version: 1.19
+authors: [ dodoflix ]
+description: Server Core for paper servers.

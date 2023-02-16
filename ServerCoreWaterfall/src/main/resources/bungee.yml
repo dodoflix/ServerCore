@@ -1,0 +1,4 @@
+name: ServerCoreWaterfall
+version: '${project.version}'
+main: me.dodo.servercorewaterfall.ServerCoreWaterfall
+description: Server Core for waterfall.
